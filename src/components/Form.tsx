@@ -1,4 +1,5 @@
 import { useForm } from '@formspree/react'
+import AppDownloadButtons from './AppDownloadButtons'
 
 function Form() {
   const [state, handleSubmit] = useForm(
@@ -16,8 +17,9 @@ function Form() {
   return (
     <div className='w-full px-4 z-10 md:flex md:items-center md:gap-[3vh] md:px-6 justify-between xl:px-14 xl:gap-0 2xl:px-32'>
       <h3 className='select-none text-white font-lexend text-[3.4vh] font-semibold text-center md:text-[7.18vw] md:text-left md:leading-[1.1] xl:text-[5vw] 2xl:text-[4.8vw]'>
-        Coming this Winter 2025
+        Download now!
       </h3>
+      <AppDownloadButtons />
       <form
         onSubmit={handleSubmit}
         className='w-full bg-primary-400 p-6 rounded-2xl text-center mt-[1vh] md:mt-0 md:w-[40.7rem] xl:w-[23rem]'>

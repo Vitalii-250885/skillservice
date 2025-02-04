@@ -1,6 +1,7 @@
 import Form from '../components/Form'
 import Lottie from '../components/LottieAnimation'
-import RunningLine from '../components/RunningLine'
+// import RunningLine from '../components/RunningLine'
+import RunningLine from '../components/RunningLine2'
 import Social from '../components/Social'
 import CookiesBanner from '../components/CookiesBanner'
 
