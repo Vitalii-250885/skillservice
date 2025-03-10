@@ -28,13 +28,13 @@ function Social() {
   ]
 
   return (
-    <div className='flex mt-[1.6vh] select-none'>
+    <div className='flex items-center mt-6 gap-5 select-none'>
       {icons.map((icon, index) => (
         <a key={index} href={icon.link} target='_blank'>
           <img
             src={icon.icon}
             alt={icon.alt}
-            className='p-2 w-[5.55vh] h-[5.55vh] md:w-[6vh] md:h-[6vh] xl:w-[6.5vh] xl:h-[6.5vh] 2xl:w-[5.6vh] 2xl:h-[5.6vh] hover:animate-hoverIcon hover:scale-110'
+            className='w-6 h-6 hover:animate-hoverIcon hover:scale-110'
           />
         </a>
       ))}

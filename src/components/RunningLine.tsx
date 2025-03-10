@@ -1,7 +1,10 @@
 const RunningLine = () => {
   const SlideElement = () => (
+    // <span className='select-none animate-ticker shrink-0 px-14 leading-0 flex items-center whitespace-nowrap text-[18.35vh] font-lexend font-medium text-primary-600 md:text-150 xl:text-200 2xl:text-200'>
+    //   Coming this Spring 2025
+    // </span>
     <span className='select-none animate-ticker shrink-0 px-14 leading-0 flex items-center whitespace-nowrap text-[18.35vh] font-lexend font-medium text-primary-600 md:text-150 xl:text-200 2xl:text-200'>
-      Coming this Spring 2025
+      Download now
     </span>
   )
 

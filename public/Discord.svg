@@ -1,6 +1,6 @@
-<svg width="38" height="38" viewBox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M8.70833 25.3333C16.625 29.2916 21.375 29.2916 29.2917 25.3333" stroke="#295D75" stroke-width="2.38" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M24.5417 27.7083L26.125 30.875C26.125 30.875 32.7291 28.7723 34.8333 25.3333C34.8333 23.75 35.6725 12.4339 30.0833 8.70831C27.7083 7.12498 23.75 6.33331 23.75 6.33331L22.1667 9.49998H19" stroke="#295D75" stroke-width="2.38" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M13.5027 27.7083L11.9193 30.875C11.9193 30.875 5.31525 28.7723 3.211 25.3333C3.211 23.75 2.37183 12.4339 7.961 8.70831C10.336 7.12498 14.2943 6.33331 14.2943 6.33331L15.8777 9.49998H19.0443" stroke="#295D75" stroke-width="2.38" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M13.4583 22.1666C12.1473 22.1666 11.0833 20.7496 11.0833 19C11.0833 17.2504 12.1473 15.8333 13.4583 15.8333C14.7693 15.8333 15.8333 17.2504 15.8333 19C15.8333 20.7496 14.7693 22.1666 13.4583 22.1666ZM24.5417 22.1666C23.2307 22.1666 22.1667 20.7496 22.1667 19C22.1667 17.2504 23.2307 15.8333 24.5417 15.8333C25.8527 15.8333 26.9167 17.2504 26.9167 19C26.9167 20.7496 25.8527 22.1666 24.5417 22.1666Z" stroke="#295D75" stroke-width="2.38" stroke-linecap="round" stroke-linejoin="round"/>
+<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 16C11 18.5 14 18.5 19 16" stroke="#295D75" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16 17.5L17 19.5C17 19.5 21.171 18.172 22.5 16C22.5 15 23.03 7.853 19.5 5.5C18 4.5 15.5 4 15.5 4L14.5 6H12.5" stroke="#295D75" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M9.02778 17.5L8.02778 19.5C8.02778 19.5 3.85678 18.172 2.52778 16C2.52778 15 1.99778 7.853 5.52778 5.5C7.02778 4.5 9.52778 4 9.52778 4L10.5278 6H12.5278" stroke="#295D75" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M9 14C8.172 14 7.5 13.105 7.5 12C7.5 10.895 8.172 10 9 10C9.828 10 10.5 10.895 10.5 12C10.5 13.105 9.828 14 9 14ZM16 14C15.172 14 14.5 13.105 14.5 12C14.5 10.895 15.172 10 16 10C16.828 10 17.5 10.895 17.5 12C17.5 13.105 16.828 14 16 14Z" stroke="#295D75" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
