@@ -20,7 +20,7 @@ function Form() {
         Coming this Spring 2025
       </h3> */}
       <h3 className='select-none text-primary-400 md:text-white font-lexend text-2xl font-semibold text-center md:text-left'>
-        Download now
+        Download now!
       </h3>
       <DownloadPanel />
       <form
